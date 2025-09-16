@@ -14,7 +14,7 @@
     "restart": "pm2 restart MALVIN-XD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:XdKing2/Malvin-baileys",
+    "@whiskeysockets/baileys": "github:xdking0/Malvin-baileys",
     "@google/genai": "^1.8.0",
     "@google/generative-ai": "^0.24.1",
     "@vitalets/google-translate-api": "^9.0.0",
